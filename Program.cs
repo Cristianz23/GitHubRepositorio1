@@ -1,5 +1,5 @@
 ﻿//
-
+/*
 using Departamentos;
 
 List<depto> ItsDeptos = new List<depto>()
@@ -40,4 +40,4 @@ foreach (var item in DeptOrdenado)
     int total = ItsDeptos.Select(d => d.Population).Sum();
     Console.WriteLine($"Poblacion General: {total:NO}");
 
-}
+}*/
